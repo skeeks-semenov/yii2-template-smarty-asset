@@ -1506,13 +1506,13 @@ section.dark.page-header ul.page-options a {
 		z-index: 22;
 	}
 	#header.fixed  li.quick-cart .quick-cart-box {
-		margin-top:18px;
+		/*margin-top:18px;*/
 	}
 		#header.fixed.header-sm li.quick-cart .quick-cart-box {
-			margin-top:18px;
+			/*margin-top:18px;*/
 		}
 		#header.fixed.header-md li.quick-cart .quick-cart-box {
-			margin-top:15px;
+			/*margin-top:15px;*/
 		}
 
 	#header li.quick-cart .quick-cart-wrapper {
@@ -2512,7 +2512,7 @@ section.dark.page-header ul.page-options a {
 	}
 	@media only screen and (max-width: 992px) {
 		#header.static {
-			position:relative !important;
+			/*position:relative !important;*/
 		}
 	}
 
@@ -7486,7 +7486,7 @@ ul.search-history {
 
 @media only screen and (max-width: 768px) {
 	#header.fixed {
-		position:relative;
+		position:fixed;
 	}
 	
 	#header.transparent + #slider h1 {

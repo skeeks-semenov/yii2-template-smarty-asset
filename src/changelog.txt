@@ -1,3 +1,47 @@
+@Version 	1.1.5
+@Date		Tuesday, January 03, 2017
+@Author		Dorin Grigoras
+	* Update: Bootstrap to v3.3.7 (changes: replaced assets/plugins/bootstrap/ folder)
+	* Update: newsletter - send subscribers to email (changes: php/newsletter.php - you need to edit this file)
+	* Update: Fontawesome to v4.7.0 (changes: assets/css/essentials.css , assets/fonts/fontawesome*)
+	* Update: Revolution Slider to v5.3.1.6 (changes: replaced assets/plugins/slider.revolution.v5)
+
+
+
+@Version 	1.1.4
+@Date		Saturday, July 02, 2016
+@Author		Dorin Grigoras
+	* New: RS Page - Agency Slider (added: rs-40.html)
+	* New: RS Page - Restaurant Slider (added: rs-41.html)
+	* New: RS Page - Team Slider (added: rs-42.html)
+	* New: RS Page - 4K Youtube Slider (added: rs-43.html)
+	* New: RS Page - White Board (added: rs-44.html)
+	* New: RS Page - Photo Gallery (added: rs-45.html)
+	* New: RS Page - New Gallery (added: rs-46.html)
+	* New: RS Page - Sleek Landing Page (added: rs-47.html)
+	* New: RS Page - Coming Soon (added: rs-48.html)
+	* New: RS Page - App Landing Page (added: rs-49.html)
+	* New: RS Page - Fullscreen Menu (added: rs-50.html)
+	* New: RS Page - Creative Frontpage (added: rs-51.html)
+	* New: RS Page - Car Dealer (added: rs-52.html)
+	* New: Added image hover class (.grayscale-hover-color) - grayscale to color (changes: assets/css/essentials.css , example: shortcode-thumbnails.html)
+	* New: Revolution Slider Visual Editor Addon (added: documentation/Revolution_Slider/5.x/addon-visual-editor/ folder)
+	* Update: Revolution Slider to v5.2.6 (replaced: assets/plugins/slider.revolution.v5)
+	* Update: Revolution Slider Documentation (changes: documentation/Revolution_Slider/5.x/Documentation/)
+	* Update: Layer Slider to v5.6.7 (changes: replaced documentation/slider.layerslider)
+	* Update: Layer SLider Documentation (changes: documentation/Layerslider)
+	* Update: jQuery to v2.2.3 (changes: added assets/plugins/jquery/jquery-2.2.3.min.* , replaced jQuery version on all HTML files)
+	* Update: Magnific Popup to v1.1.0 (changes: replaced assets/plugins/magnific-popup folder)
+	* Update: Contact Form required length in PHP (changes: php/contact.php, line 90)
+	* Update: Documentation (Section: PHP>Contact)
+	* Update: gmaps plugin to v0.4.24 (changes: replaced assets/plugins/gmaps.js)
+	* Update: Fontawesome to v4.6.3 (changes: assets/css/essentials.css, replaced: assets/fons/fontawesome-* , feature-icons-fontawesome.html)
+	* Update: Animate to v3.5.1 (changes: assets/css/essentials.css)
+	* Fix: Google Maps Key (Key Used: AIzaSyCqCn84CgZN6o1Xc3P4dM657HIxkX3jzPY, Changes: page-contact-*. html files)
+	* Fix: jQuery Vectorial Map .js extension missing (changes: shortcode-maps-vectorial.html)
+	* Fix: Broken Magnific Popup Youtube Videos (changes: all html files where youtube video is opened by a magnific popup modal)
+
+
 @Version 	1.1.3
 @Date		Tuesday, January 12, 2016
 @Author		Dorin Grigoras
