@@ -1,6 +1,10 @@
 CHANGELOG
 ==============
 
+2.1.0
+-----------------   
+    * Update template to 2.1.0
+
 1.1.5
 -----------------
     * Update: Bootstrap to v3.3.7 (changes: replaced assets/plugins/bootstrap/ folder)
